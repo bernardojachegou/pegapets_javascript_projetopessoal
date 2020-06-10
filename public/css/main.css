@@ -1,0 +1,37 @@
+:root {
+    --title-color: #3F3B51;
+    --primary-color: #6A4671;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.text-logo {
+    font-size: 54px;
+}
+
+.logo {
+    width: 76px;
+    height: 76px;
+}
+
+html {
+    font-family: 'Roboto', sans-serif;
+}
+
+body {
+    background: #f5e8df;
+    -webkit-font-smoothing: antialiased;
+}
+
+a {
+    text-decoration: none;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Ubuntu', sans-serif;
+    color: var(--title-color);
+}
