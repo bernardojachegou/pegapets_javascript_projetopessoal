@@ -12,7 +12,7 @@
 </p>
 <p>
     Este projeto foi criado a partir de ensinamentos durante a NLW da Rocketseat. O projeto tem como objetivo aproximar pessoas 
-    que gostaria de adotar um animal de estimação com entidades que fazem doação de desses animais.
+    que gostariam de adotar um animal de estimação com entidades que fazem doação desses animais.
 </p>
 <p>
 Nesta versão do projeto foi criada um sistema full MVC utilizando o Node.js.
